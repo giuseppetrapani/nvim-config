@@ -2,8 +2,6 @@
 
 Questa è la mia configurazione per **Neovim** gestita con il plugin manager **Packer**.
 
----
-
 ## Come installare
 
 1. Clona questa configurazione nella cartella di Neovim:
