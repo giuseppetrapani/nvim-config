@@ -1,0 +1,8 @@
+require("core.mappings")
+require("core.plugins")
+require("core.options")
+require("core.autopairs")
+require("core.lsp")
+require("core.cmp")
+require("core.diagnostics")
+require("core.treesitter")
