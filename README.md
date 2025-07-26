@@ -8,6 +8,5 @@ Questa è la mia configurazione per **Neovim** gestita con il plugin manager **P
 
 ```bash
 git clone https://github.com/USERNAME/nvim-config.git ~/.config/nvim
-'''
 
 2. Avvia Neovim e Packer installerà automaticamente tutti i plugin configurati.
