@@ -2,6 +2,8 @@
 
 Questa è la mia configurazione per **Neovim** gestita con il plugin manager **Packer**.
 
+<img src="image.png" alt="image" width="500" />
+
 ## Come installare
 
 1. Clona questa configurazione nella cartella di Neovim:
